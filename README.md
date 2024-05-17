@@ -11,23 +11,20 @@
 
 - 📫 How to reach me **liyakathliyu2@gmail.com**
 
-  
-
-
 
 
 
 <h3 align="left">Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,matlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,mysql,matlab)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,pycharm,git,github,wordpress,notion)](https://skillicons.dev)
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liyakath-ali&show_icons=true&locale=en&layout=compact" alt="liyakath-ali" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a4sa&show_icons=true&locale=en&layout=compact" alt="a4sa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liyakath-ali&show_icons=true&locale=en" alt="liyakath-ali" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a4sa&show_icons=true&locale=en" alt="a4sa" /></p>
 
