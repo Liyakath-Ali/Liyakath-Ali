@@ -1,14 +1,9 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Liyakath Ali </h1>
-<h3 align="center">A passionate Salesforce Developer from India</h3>
+<h3 align="center">Full Stack Python Developer from India</h3>
 
 ## 👨🏻‍💻 About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="200px" align="right" />
-
-- 🔭 I’m currently working on **Salesforce Developer** 
-
-- 💬 Ask me about **Salesforce, Python**
-
 - 📫 How to reach me **liyakathliyu2@gmail.com**
 
 
